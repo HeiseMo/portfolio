@@ -1,20 +1,18 @@
 [
   {
     "Key": "1",
-    "Title": "Days Gone By",
-    "PictureUrl": "https://cdn.dribbble.com/users/2811827/screenshots/16188096/media/e5f6179e8841cef78bad8b5475311e66.png",
-    "Description": "Incremental game with survival aspects. This project was built with JS, HTML, DOM Manupilation and CSS"
+    "Title": "TrackMe",
+    "PictureUrl": "https://i.imgur.com/hgTtu5W.png",
+    "Description": "A task/bug tracker built using MERN(MongoDB, Express, React and Node) stack. For the live preview account information; username: demo, password:123456789",
+    "Live": "http://trackme.timurjamestanurhan.com/",
+    "Code": "https://github.com/HeiseMo/bug-report"
   },
   {
     "Key": "2",
-    "Title": "Expense App",
-    "PictureUrl": "https://cdn.dribbble.com/users/2811827/screenshots/16188096/media/e5f6179e8841cef78bad8b5475311e66.png",
-    "Description": "A web app that helps you track your expenses and the breakdown of what you spent. This project was built with JS, HTML, DOM Manupilation and CSS"
-  },
-  {
-    "Key": "3",
-    "Title": "ConsoleLog()",
-    "PictureUrl": "https://cdn.dribbble.com/users/2811827/screenshots/16188096/media/e5f6179e8841cef78bad8b5475311e66.png",
-    "Description": "The 'LinkedIn' for Ironhackers where you can view and follow the progress of fellow Ironhackers. This project was built with JS, HTML, DOM Manupilation and CSS"
+    "Title": "Days Gone By",
+    "PictureUrl": "https://i.imgur.com/g3BB2xb.png",
+    "Description": "Incremental game with survival aspects. This project was built with JS, HTML, DOM Manupilation and CSS",
+    "Live": "https://heisemo.github.io/days-gone-by/",
+    "Code": "https://github.com/HeiseMo/days-gone-by"
   }
 ]

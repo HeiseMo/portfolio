@@ -171,6 +171,7 @@ a {
 
 .card-image img {
   width: 380px;
+  height: 250px;
   border-width: 0.2vw;
   border-style: solid;
   border-image: radial-gradient(

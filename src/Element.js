@@ -13,14 +13,14 @@ const Element = (props) => {
         </div>
         <div className="body-links">
           <a
-            href="https://github.com/HeiseMo"
+            href={props.Live}
             target="_blank"
             rel="noopener noreferrer"
           >
             <div className="links-button">Live Preview</div>
           </a>
           <a
-            href="https://github.com/HeiseMo"
+            href={props.Code}
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -71,6 +71,9 @@ a {
   font-size: 1.5em;
   font-family: monospace;
 }
+.home-name {
+  color:rgba(70, 252, 115, 1);
+}
 .content .button {
   display: flex;
   justify-content: center;

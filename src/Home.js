@@ -11,9 +11,7 @@ class Home extends Component {
           <div className="home-top-left">
             <h2>Hello There</h2>
             <p>
-              I am a Web developer who loves programing. I enjoy learning and
-              experimenting with new technologies and have a passion for web
-              development.
+              I am <span className="home-name">Timur James Tanurhan</span>. I'm a full-stack web developer.
             </p>
           </div>
           <Typing>
@@ -30,7 +28,7 @@ class Home extends Component {
           </Typing>
         </div>
         <a
-          href="https://drive.google.com/file/d/1PmBsOzlf3NVBVsSTb4x9B3CwSDCkYfKz/view?usp=sharing"
+          href="https://drive.google.com/file/d/15O7UDyTQG85XlIgNZnn3FduMuGV5IImm/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >

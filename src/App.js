@@ -11,7 +11,7 @@ export default function App() {
         <div>
           <div className="header">
             <div className="header-left">
-              <h1>Timur James Tanurhan</h1>
+              <h1></h1>
             </div>
             <div className="header-right">
               <a

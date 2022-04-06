@@ -20,7 +20,7 @@ export default function App() {
                 rel="noopener noreferrer"
               >
                 <img
-                  src="https://image.flaticon.com/icons/png/512/733/733609.png"
+                  src="https://cdn-icons-png.flaticon.com/512/38/38401.png"
                   alt="github"
                   className="github-icon"
                 />
@@ -31,7 +31,7 @@ export default function App() {
                 rel="noopener noreferrer"
               >
                 <img
-                  src="https://image.flaticon.com/icons/png/512/733/733617.png"
+                  src="https://cdn-icons-png.flaticon.com/512/61/61109.png"
                   alt="linkedin"
                 />
               </a>
@@ -41,7 +41,7 @@ export default function App() {
                 rel="noopener noreferrer"
               >
                 <img
-                  src="https://image.flaticon.com/icons/png/512/733/733643.png"
+                  src="https://cdn-icons-png.flaticon.com/512/25/25281.png"
                   alt="xing"
                   className="xing-icon"
                 />

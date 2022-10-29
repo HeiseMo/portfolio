@@ -5,7 +5,7 @@ class Footer extends Component {
     return (
       <>
         <div className="footer-text">
-          @ 2021 | Created by Timur James Tanurhan
+          @ 2022 | Created by Timur James Tanurhan
         </div>
         <div className="footer-break-line">
           <div className="footer-hl"></div>

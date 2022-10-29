@@ -1,6 +1,14 @@
 [
   {
     "Key": "1",
+    "Title": "Diffused Art",
+    "PictureUrl": "https://i.imgur.com/kGMv8qy.jpg",
+    "Description": "Responsive image gallery with discord authentication for image management. Built with React, Node, Express, MongoDB and Discord OAuth2",
+    "Live": "http://diffusedhermit.com/",
+    "Code": "https://github.com/HeiseMo/diffusedArt"
+  },
+  {
+    "Key": "2",
     "Title": "TrackMe",
     "PictureUrl": "https://i.imgur.com/hgTtu5W.png",
     "Description": "A task/bug tracker built using MERN(MongoDB, Express, React and Node) stack. For the live preview account information; username: demo, password:123456789",
@@ -8,7 +16,7 @@
     "Code": "https://github.com/HeiseMo/bug-report"
   },
   {
-    "Key": "2",
+    "Key": "3",
     "Title": "Days Gone By",
     "PictureUrl": "https://i.imgur.com/g3BB2xb.png",
     "Description": "Incremental game with survival aspects. This project was built with JS, HTML, DOM Manupilation and CSS",
